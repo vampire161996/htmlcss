@@ -1,0 +1,36 @@
+*{ /* su dung cho tat ca cac the*/
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+
+}
+textarea{
+    display: block;
+}
+h1{
+    color:#eb4d4b
+    /* color: rgba alpha la do mo, cac gia tri red green blue tu 0 den 255*/
+
+}
+h1{
+    border: 10px solid black; /* tao khung vien */
+    /*
+    display: block; tao kieu hien thi inline hoac block
+    padding: 30px; /*can chinh khoang trang giua border va content
+    margin: 30px; can chinh khoang trang giua border va trang*/
+
+}
+h2{
+    color:#ff7979
+}
+h2{
+    font-family: 'Zhi Mang Xing', cursive;
+    font-weight: 100;
+    font-size: 50px;
+}
